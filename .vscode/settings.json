@@ -1,0 +1,20 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/shims-vue.d.ts": true,
+        "**/yarn.lock": true,
+        "**/tsconfig.json": true,
+        "**/.editorconfig": true,
+        "**/.eslint*": true,
+        "**/.npmignore": true,
+        "**/.gitignore": true,
+        "**/.npmrc": true,
+        "**/.gitattributes": true,
+        "**/*.config.{ts,js}": true
+    },
+    "files.eol": "\n",
+    "files.encoding": "utf8",
+    "files.trimFinalNewlines": true,
+    "editor.tabSize": 2
+}

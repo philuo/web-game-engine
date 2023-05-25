@@ -1,0 +1,14 @@
+{
+  "include": [
+    "src/**/*"
+  ],
+  "skipLibCheck": true,
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  }
+}
